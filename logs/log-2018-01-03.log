@@ -1,0 +1,10 @@
+[2018-01-03T16:15:32.777] [ERROR] cheese - 有错误哦
+[2018-01-03T16:15:32.786] [INFO] cheese - 响应时间为0.034s
+[2018-01-03T16:27:07.959] [ERROR] cheese - 有错误哦
+[2018-01-03T16:27:07.969] [INFO] cheese - 响应时间为0.036s
+[2018-01-03T16:50:29.103] [ERROR] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"有错误哦","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
+[2018-01-03T16:50:29.116] [INFO] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"响应时间为0.051s","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
+[2018-01-03T17:07:33.643] [ERROR] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"有错误哦","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
+[2018-01-03T17:07:33.655] [INFO] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"响应时间为0.038s","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
+[2018-01-03T17:08:58.725] [ERROR] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"有错误哦","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
+[2018-01-03T17:08:58.727] [INFO] cheese - {"method":"GET","url":"/","host":"127.0.0.1:3001","message":"响应时间为0.003s","userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
